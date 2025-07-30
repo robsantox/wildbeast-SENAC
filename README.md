@@ -8,6 +8,7 @@ Wildbeast é um dos projetos do curso Técnico de Desenvolvimento de Sistemas of
 
 ## Layout web
 
+<img width="1280" height="945" alt="screencapture-wildbeast" src="https://github.com/user-attachments/assets/d084c44c-6963-4233-9eeb-65f405c9ea2a" />
 
 # Tecnologias utilizadas
 
